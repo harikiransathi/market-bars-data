@@ -1,0 +1,144 @@
+{
+  "description": "Canonical bar sqlite snapshots (US + India). One file each, no duplicates.",
+  "files": [
+    {
+      "path": "data/india/mock92_bars.sqlite",
+      "bytes": 36569088,
+      "sha256": "80d37f1c67058aad540dedbb164d2314f7f47802b45f5baf0a413551f65eda56",
+      "tables": [
+        "bars_5m"
+      ],
+      "symbols": [
+        {
+          "symbol": "BANKNIFTY",
+          "bars": 92598,
+          "days": 1214,
+          "from": "2021-12-13",
+          "to": "2026-11-13"
+        },
+        {
+          "symbol": "BANKNIFTY_FUT",
+          "bars": 3866,
+          "days": 54,
+          "from": "2026-08-26",
+          "to": "2026-11-13"
+        },
+        {
+          "symbol": "NIFTY",
+          "bars": 94406,
+          "days": 1238,
+          "from": "2021-11-09",
+          "to": "2026-11-13"
+        },
+        {
+          "symbol": "NIFTY_FUT",
+          "bars": 4141,
+          "days": 54,
+          "from": "2026-08-26",
+          "to": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "path": "data/india/nifty_bars.sqlite",
+      "bytes": 23158784,
+      "sha256": "147a794d1ee8b8886b21d6a0d01d9c8c7c73c06c922d4fa1945d400a1d288f9e",
+      "tables": [
+        "bars_5m"
+      ],
+      "symbols": [
+        {
+          "symbol": "INDIAVIX",
+          "bars": 92867,
+          "days": 1218,
+          "from": "2021-11-09",
+          "to": "2026-10-14"
+        },
+        {
+          "symbol": "NIFTY",
+          "bars": 92928,
+          "days": 1218,
+          "from": "2021-11-09",
+          "to": "2026-10-14"
+        }
+      ]
+    },
+    {
+      "path": "data/us-etfs-futures/es_nq_5min.sqlite",
+      "bytes": 76382208,
+      "sha256": "30b04dab640c30d8e995a8791d8437273e26eaa0ffe05e92b3dcdb9d8008e683",
+      "tables": [
+        "bars_5min",
+        "meta"
+      ],
+      "symbols": [
+        {
+          "symbol": "ES",
+          "bars": 179514,
+          "days": 842,
+          "from": "2023-09-27",
+          "to": "2026-09-18"
+        },
+        {
+          "symbol": "MES",
+          "bars": 72003,
+          "days": 740,
+          "from": "2023-09-18",
+          "to": "2026-11-13"
+        },
+        {
+          "symbol": "MNQ",
+          "bars": 63812,
+          "days": 723,
+          "from": "2023-09-22",
+          "to": "2026-11-13"
+        },
+        {
+          "symbol": "NQ",
+          "bars": 173094,
+          "days": 789,
+          "from": "2023-12-20",
+          "to": "2026-09-18"
+        }
+      ]
+    },
+    {
+      "path": "data/us-etfs-futures/spy_qqq_5min.sqlite",
+      "bytes": 95416320,
+      "sha256": "5cd4da7e764c589f98a2a4b62701fd0a34371776452590bc9de33df31bc09b77",
+      "tables": [
+        "bars_5min"
+      ],
+      "symbols": [
+        {
+          "symbol": "NDX",
+          "bars": 99246,
+          "days": 1277,
+          "from": "2021-10-14",
+          "to": "2026-11-13"
+        },
+        {
+          "symbol": "QQQ",
+          "bars": 101196,
+          "days": 1302,
+          "from": "2021-09-09",
+          "to": "2026-11-13"
+        },
+        {
+          "symbol": "SPY",
+          "bars": 101196,
+          "days": 1302,
+          "from": "2021-09-09",
+          "to": "2026-11-13"
+        },
+        {
+          "symbol": "VIX",
+          "bars": 205430,
+          "days": 1280,
+          "from": "2021-09-07",
+          "to": "2026-10-12"
+        }
+      ]
+    }
+  ]
+}

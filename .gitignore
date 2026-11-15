@@ -1,0 +1,4 @@
+# Editor / OS noise only — sqlite files are tracked via LFS
+.DS_Store
+Thumbs.db
+*.swp
