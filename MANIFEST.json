@@ -65,8 +65,8 @@
     },
     {
       "path": "data/us-etfs-futures/es_nq_5min.sqlite",
-      "bytes": 76382208,
-      "sha256": "30b04dab640c30d8e995a8791d8437273e26eaa0ffe05e92b3dcdb9d8008e683",
+      "bytes": 76558336,
+      "sha256": "2c48f520cf94c3fb4833d608eaba3e331da7b1df15a6b4c4fabd3aabbf2617cd",
       "tables": [
         "bars_5min",
         "meta"
@@ -81,17 +81,17 @@
         },
         {
           "symbol": "MES",
-          "bars": 72003,
-          "days": 740,
+          "bars": 72453,
+          "days": 745,
           "from": "2023-09-18",
-          "to": "2026-11-13"
+          "to": "2026-11-20"
         },
         {
           "symbol": "MNQ",
-          "bars": 63812,
-          "days": 723,
+          "bars": 64262,
+          "days": 728,
           "from": "2023-09-22",
-          "to": "2026-11-13"
+          "to": "2026-11-20"
         },
         {
           "symbol": "NQ",
@@ -104,8 +104,8 @@
     },
     {
       "path": "data/us-etfs-futures/spy_qqq_5min.sqlite",
-      "bytes": 95416320,
-      "sha256": "5cd4da7e764c589f98a2a4b62701fd0a34371776452590bc9de33df31bc09b77",
+      "bytes": 95592448,
+      "sha256": "1a81ede3223b0a0edfd1f504f2439c27aa696ec68b97f974daf1cfb9c0237b46",
       "tables": [
         "bars_5min"
       ],
@@ -119,17 +119,17 @@
         },
         {
           "symbol": "QQQ",
-          "bars": 101196,
-          "days": 1302,
+          "bars": 101586,
+          "days": 1307,
           "from": "2021-09-09",
-          "to": "2026-11-13"
+          "to": "2026-11-20"
         },
         {
           "symbol": "SPY",
-          "bars": 101196,
-          "days": 1302,
+          "bars": 101586,
+          "days": 1307,
           "from": "2021-09-09",
-          "to": "2026-11-13"
+          "to": "2026-11-20"
         },
         {
           "symbol": "VIX",
