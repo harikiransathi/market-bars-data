@@ -105,7 +105,7 @@
     {
       "path": "data/us-etfs-futures/spy_qqq_5min.sqlite",
       "bytes": 96395264,
-      "sha256": "bf8b5ee23e24e507f7ca8d0bc78f4985b2d8f51a8af96d8660d27d26895e5a4a",
+      "sha256": "1c0ec0ca263413f8b4f62bfb955f2d68d869493e6558730616319b053a4b2bcc",
       "tables": [
         "bars_5min"
       ],
@@ -133,10 +133,10 @@
         },
         {
           "symbol": "VIX",
-          "bars": 209954,
-          "days": 1309,
+          "bars": 205430,
+          "days": 1280,
           "from": "2021-09-07",
-          "to": "2026-11-20"
+          "to": "2026-10-12"
         }
       ]
     }
