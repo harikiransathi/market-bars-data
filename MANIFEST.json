@@ -104,41 +104,9 @@
     },
     {
       "path": "data/us-etfs-futures/spy_qqq_5min.sqlite",
-      "bytes": 95592448,
-      "sha256": "1a81ede3223b0a0edfd1f504f2439c27aa696ec68b97f974daf1cfb9c0237b46",
-      "tables": [
-        "bars_5min"
-      ],
-      "symbols": [
-        {
-          "symbol": "NDX",
-          "bars": 99246,
-          "days": 1277,
-          "from": "2021-10-14",
-          "to": "2026-11-13"
-        },
-        {
-          "symbol": "QQQ",
-          "bars": 101586,
-          "days": 1307,
-          "from": "2021-09-09",
-          "to": "2026-11-20"
-        },
-        {
-          "symbol": "SPY",
-          "bars": 101586,
-          "days": 1307,
-          "from": "2021-09-09",
-          "to": "2026-11-20"
-        },
-        {
-          "symbol": "VIX",
-          "bars": 205430,
-          "days": 1280,
-          "from": "2021-09-07",
-          "to": "2026-10-12"
-        }
-      ]
+      "bytes": 96395264,
+      "sha256": "e7c3fc8e8282c8736f1769b8392cb439545022e483716717b72a751717c1355d",
+      "schema_error": "file is not a database"
     }
   ]
 }
